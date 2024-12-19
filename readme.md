@@ -22,3 +22,5 @@ Some details:
 
 ---
 Before submitting an assignment, it will be nice to check how it handles this [file](https://ecwid-vgv-storage.s3.eu-central-1.amazonaws.com/ip_addresses.zip). Attention - the file weighs about 20Gb, and unzips to about 120Gb.
+
+The result : Estimated number of unique IP addresses: 1001465283
