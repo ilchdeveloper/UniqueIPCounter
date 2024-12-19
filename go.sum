@@ -1,0 +1,6 @@
+github.com/axiomhq/hyperloglog v0.2.1 h1:z+rouIlYdpZ+DVfnQigBimhQL6OKHIL3e8+hMiud5/c=
+github.com/axiomhq/hyperloglog v0.2.1/go.mod h1:WCdOZ8PNJKNcBw3xFZ7iHlnUn1nDVHK/XToLjjmySh4=
+github.com/dgryski/go-metro v0.0.0-20180109044635-280f6062b5bc h1:8WFBn63wegobsYAX0YjD+8suexZDga5CctH4CCTx2+8=
+github.com/dgryski/go-metro v0.0.0-20180109044635-280f6062b5bc/go.mod h1:c9O8+fpSOX1DM8cPNSkX/qsBWdkD4yd2dpciOWQjpBw=
+github.com/kamstrup/intmap v0.5.0 h1:WY7OJQeG7Ujc9zpPTO6PraDGSveG9js9wCPoI2q8wJQ=
+github.com/kamstrup/intmap v0.5.0/go.mod h1:gWUVWHKzWj8xpJVFf5GC0O26bWmv3GqdnIX/LMT6Aq4=
